@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="20"
      height="20"
-     transform="scale(10, 10)">
+     transform="scale(0.1, 0.1)">
   <g id="points">
     <circle cx="1" cy="5" style="fill:#ffeeaa" r="1" />
     <circle cx="10" cy="5" style="fill:#ffeeaa" r="1" />
